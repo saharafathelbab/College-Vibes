@@ -47,10 +47,7 @@ Two of the interviewees had this in common: Use social media on a daily to keep 
 Two of the interviewees had this in common: Go to class, and then leave to mmediately get started on the assignment given. They would make a friend in class only if they HAD to. (i.e. group project)
 Everyone had this in common: Met their closest friends in person not through social media online.
 
-**[View CollegeVibes Documentation](CSIT335 - Interview Stage.pdf)
-
-<a class = "link_pdf" href = "CSIT335 - Interview Stage.pdf"> <img height:"50px" width: "50px" src = "/images/pdf.png" alt = "pdf"></a>
-<figcaption class = "para_caption">To view all questions and patterns in detail, click the above PDF. </figcaption>
+<a href = "CSIT335 - Interview Stage.pdf"> view all questions and patterns in detail, click to view pdf. </a>
 
 #### What was the Target Demographic?
 
@@ -65,14 +62,14 @@ To view all big ideas selected in detail, click the above PDF.
 
 #### How many personas did we create? 
 We created three personas:
-<a href = "Persona1.pdf"> <img height:"200px" width: "200px" src = "/images/mason.png" alt = "Mason"> </a>
+
+<a href = "Persona1.pdf">Mason Cooper </a>
 Mason Cooper
 
-<a href = "Persona2.pdf"> <img height:"200px" width: "200px" src = "/images/april.png" alt = "April"> </a>
-April Johnson </figcaption>
+<a href = "Persona2.pdf"> April Johnson </a>
 
-<a href = "Persona3.pdf"> <img height:"200px" width: "200px" src = "/images/mariam.png" alt = "Mariam"> </a>
-Mariam Rashid
+
+<a href = "Persona3.pdf"> Mariam Rashid </a>
 
 To view the Problem and Context Scenario accompanying each, click on their respective images to be taken to the PDF. 
 
