@@ -5,7 +5,6 @@
 
 **[View CollegeVibes](https://9te13l.axshare.com/?#g=1&p=home)**
 <br> 
-**[View CollegeVibes Documentation](https://saharafathelbab.github.io/portfolio/documentation/CollegeVibes_Documentation/collegevibesinfo.html?)**
 
 #### General Information
 
