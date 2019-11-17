@@ -47,7 +47,7 @@ Two of the interviewees had this in common: Use social media on a daily to keep 
 Two of the interviewees had this in common: Go to class, and then leave to mmediately get started on the assignment given. They would make a friend in class only if they HAD to. (i.e. group project)
 Everyone had this in common: Met their closest friends in person not through social media online.
 
-<a href = "CSIT335 - Interview Stage.pdf"> view all questions and patterns in detail, click to view pdf. </a>
+<a href = "CSIT335 - Interview Stage.pdf"> View all questions and patterns in detail, click to view pdf. </a>
 
 #### What was the Target Demographic?
 
@@ -57,14 +57,12 @@ First-year non-transfer commuters at Montclair State University.
 The goal was to find 5 websites and/or applications and select a 'Big Idea' from each that we thought would be useful to our CollgeVibes solution. In the PDF below, there are slides dedicated to explaining how the 'Big Idea' worked in the application/website as well as Pros & Cons of applying the 'Big Idea' to our application.
 
 The 5 websites and/or apps we selected were: Tinder, ASOS, Instagram, LinkedIn, Canvas.
-<a href = "Raw Materials.pdf"> <img height:"50px" width: "50px" src = "/images/pdf.png" alt = "pdf"></a>
-To view all big ideas selected in detail, click the above PDF.
+<a href = "Raw Materials.pdf">To view all big ideas selected in detail, click to view PDF. </a>
 
 #### How many personas did we create? 
 We created three personas:
 
 <a href = "Persona1.pdf">Mason Cooper </a>
-Mason Cooper
 
 <a href = "Persona2.pdf"> April Johnson </a>
 
